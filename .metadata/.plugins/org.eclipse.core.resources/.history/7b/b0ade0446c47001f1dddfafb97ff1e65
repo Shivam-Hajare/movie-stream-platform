@@ -1,0 +1,5 @@
+package com.shivam.movie_straming_service.controller;
+
+public class MovieStramController {
+
+}

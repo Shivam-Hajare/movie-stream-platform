@@ -1,0 +1,5 @@
+package com.shivam.movie_catalog_service.entity;
+
+public class MovieInfo {
+
+}

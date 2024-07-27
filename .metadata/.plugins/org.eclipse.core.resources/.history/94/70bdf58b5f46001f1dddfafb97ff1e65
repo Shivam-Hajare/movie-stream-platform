@@ -1,0 +1,13 @@
+package com.shivam.movie_straming_service;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MovieStramingServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MovieStramingServiceApplication.class, args);
+	}
+
+}
